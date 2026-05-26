@@ -1,1 +1,7 @@
-# stygian-sync\n\nScaffold for future suite integration.
+# offline-sync-kit
+
+Scaffold for offline sync primitives: mutation queues, event cursors, and reconciliation.
+
+## License
+
+MIT
